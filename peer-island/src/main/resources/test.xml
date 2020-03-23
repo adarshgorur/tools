@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <age>25</age>
+        <designation>Developer</designation>
+        <name>Mohan</name>
+    </employee>
+    <employee>
+        <age>40</age>
+        <designation>Senior Developer</designation>
+        <name>Anitha</name>
+    </employee>
+    <employee>
+        <age>25</age>
+        <designation>STAFF_ENGINEER</designation>
+        <name>ADARSH</name>
+    </employee>
+    <employee>
+        <age>25</age>
+        <designation>STAFF_ENGINEER</designation>
+        <name>ADARSH</name>
+    </employee>
+    <employee>
+        <age>25</age>
+        <designation>STAFF_ENGINEER</designation>
+        <name>ADARSH_NEW</name>
+    </employee>
+</employees>
